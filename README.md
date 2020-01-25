@@ -5,9 +5,7 @@ this source gets 10 image of cfar-10 and computing the result image
 # Exampel
 
 ## Inputs
-<img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse1.png" width="32" height="32" />
-<img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse2.png" width="32" height="32" />
-<img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse3.png" width="32" height="32" />
+<img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse1.png" width="32" height="32" /> <img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse2.png" width="32" height="32" /> <img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse3.png" width="32" height="32" />
 <img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse4.png" width="32" height="32" />
 <img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse5.png" width="32" height="32" />
 <img src="https://www.cs.toronto.edu/~kriz/cifar-10-sample/horse6.png" width="32" height="32" />
